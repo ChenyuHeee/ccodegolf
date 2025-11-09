@@ -1,5 +1,5 @@
 ---
-number: 0
+number: 1
 slug: print-diamond-fast
 title: 打印菱形（优化版）
 short: 打印指定大小的菱形图案

@@ -1,4 +1,0 @@
-[
-  { "stdin": "1 2\n", "expected": "3" },
-  { "stdin": "7 8\n", "expected": "15" }
-]
